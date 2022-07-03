@@ -7,6 +7,9 @@ version = "0.1.0"
 DocStringExtensions = "ffbed154-4ef7-542d-bbb7-c09d3a79fcae"
 PyCall = "438e738f-606a-5dbb-bf0a-cddfbfd45ab0"
 
+[compat]
+PyCall = "1"
+
 [extras]
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
 
